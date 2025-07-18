@@ -1,8 +1,3 @@
-Understood\! Here's your GitHub README file, updated to match your new headline and integrated into the structure of the provided template, while using *your specific skills and content*:
-
------
-
-```markdown
 # Hi there! 👋 I'm Mohammad Azaruddin Shaik
 
 ### 🚀 Innovator | 1x Hackathon Winner | Building the Future with AI & Web Development
@@ -57,5 +52,3 @@ I'm actively **Open to 2025 Internships** in software engineering, web developme
 * **LinkedIn:** [linkedin.com/in/mohammadazaruddinshaik](https://linkedin.com/in/mohammadazaruddinshaik)
 
 ---
-
-```
