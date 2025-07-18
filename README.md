@@ -35,11 +35,31 @@ I'm a passionate **Computer Science student** at IARE, driven by a desire to inn
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 My GitHub Activity & Achievements
 
-![](https://github-readme-stats.vercel.app/api?username=mohammadazaruddinshaik&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadazaruddinshaik&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadazaruddinshaik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadazaruddinshaik&show_icons=true&theme=radical&line_height=27&hide_border=true&count_private=true&include_all_commits=true" alt="Mohammad Azaruddin Shaik's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadazaruddinshaik&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadazaruddinshaik&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadazaruddinshaik&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
 ---
 
@@ -51,3 +71,7 @@ I'm actively **Open to 2025 Internships** in software engineering, web developme
 * **LinkedIn:** [linkedin.com/in/mohammadazaruddinshaik](https://linkedin.com/in/mohammadazaruddinshaik)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadazaruddinshaik&color=blue&style=flat-square" alt="Profile views" />
+</p>
