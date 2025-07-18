@@ -27,7 +27,7 @@ I'm a passionate **Computer Science student** at IARE, driven by a desire to inn
 
 ### AI/ML & Cloud
 
-[![AI/ML & Cloud](https://skillicons.dev/icons?i=aws,py,tensorflow,pytorch,sklearn)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,py)](https://skillicons.dev)
 
 ### Tools & Version Control
 
