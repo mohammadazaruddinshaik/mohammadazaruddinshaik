@@ -38,21 +38,21 @@ I'm a passionate **Computer Science student** at IARE, driven by a desire to inn
 ## 📊 GitHub Activity & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadazaruddinshaik&show_icons=true&theme=dark&line_height=27&hide_border=true&count_private=true&include_all_commits=true" alt="Mohammad Azaruddin Shaik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadazaruddinshaik&show_icons=true&theme=dark&line_height=27&hide_border=true&count_private=true&include_all_commits=true&v=1" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadazaruddinshaik&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadazaruddinshaik&theme=dark&hide_border=true&v=1" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadazaruddinshaik&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadazaruddinshaik&layout=compact&theme=dark&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadazaruddinshaik&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadazaruddinshaik&theme=dark&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
 </p>
 
 ### ✍️ Random Dev Quote
