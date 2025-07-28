@@ -1,25 +1,17 @@
 # Hi there, I'm Mohammad Azaruddin Shaik 👋
 
-### Passionate Full-Stack Developer | 1x Hackathon Winner | Open Source Contributor
+### Full-Stack Developer | 1x Hackathon Winner | Cloud Enthusiast
 
-I'm a Computer Science student at IARE with a passion for building robust and scalable digital solutions. My goal is to leverage my skills in web development and cloud computing to solve real-world problems and contribute to innovative projects.
-
----
-
-## 🚀 My Key Accomplishments
-
-* ✨ **40+ Pull Requests Merged:** Actively contributing to various open-source and private projects, demonstrating strong collaboration and coding standards.
-* 🏆 **1st Place Hackathon Winner:** Won the Mahindra University Hackathon (AminoVerse) by rapidly prototyping and developing an impactful solution under pressure.
-* ☁️ **Cloud & Web Expertise:** Focused on building and deploying applications using the MERN stack and AWS cloud services.
+I am a passionate and results-driven Computer Science student from IARE, specializing in web development and cloud computing. I won the **1st Place award at the Mahindra University Hackathon (AminoVerse)**, where I thrived in a fast-paced, collaborative environment. My focus is on building efficient, scalable, and impactful digital solutions.
 
 ---
 
-## 🌱 What I'm Currently Focused On
+## 🌱 What I'm Focused On
 
-* Diving deeper into **Backend Development** with Node.js, Express, and advanced database management with MongoDB.
-* Expanding my knowledge of **Cloud Architectures** on AWS, including serverless and containerization.
-* Actively looking to collaborate on **Open Source Projects** related to web development and cloud technologies.
-* Preparing for **2025 Software Engineering Internship** opportunities.
+* Deepening my expertise in the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+* Building and deploying applications using **AWS cloud services**.
+* Mastering backend architecture and database management best practices.
+* Actively pursuing **Summer 2025 Software Engineering Internship** opportunities.
 
 ---
 
@@ -62,22 +54,21 @@ I'm a Computer Science student at IARE with a passion for building robust and sc
 
 ---
 
-## 📊 My GitHub Stats & Activity
+## 📊 My GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadazaruddinshaik&show_icons=true&theme=dark&line_height=27&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadazaruddinshaik&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadazaruddinshaik&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <details align="center">
-  <summary>Click to view my GitHub Trophies & a random dev quote!</summary>
+  <summary>Click to view additional stats & trophies</summary>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammadazaruddinshaik&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadazaruddinshaik&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
   </p>
   <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mohammadazaruddinshaik&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </p>
 </details>
 
@@ -85,7 +76,7 @@ I'm a Computer Science student at IARE with a passion for building robust and sc
 
 ## 📫 Let's Connect!
 
-I am actively seeking **Summer 2025 Internship** opportunities in software engineering, web development, or cloud-focused roles. I'm excited to bring my skills to a forward-thinking team and contribute to meaningful projects.
+I am actively seeking **Summer 2025 Internship** roles where I can contribute to a forward-thinking team and grow my skills in software engineering. Please feel free to reach out!
 
 <p align="left">
   <a href="mailto:mohammadazaruddinsk@gmail.com" style="text-decoration:none;">
