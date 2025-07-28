@@ -38,7 +38,7 @@ I am a passionate and results-driven Computer Science student from IARE, special
     <td align="center"><strong>Database & Cloud</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,sql,aws" />
+        <img src="https://skillicons.dev/icons?i=mongodb,aws" />
       </a>
     </td>
   </tr>
