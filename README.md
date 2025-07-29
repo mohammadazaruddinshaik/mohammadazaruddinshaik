@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Passionate software developer with expertise in **scalable systems**, **AI agents**, and **intelligent services**. Known for problem-solving, continuous learning, and delivering impactful solutions through collaboration and engineering excellence. Recently won **1st Place at AminoVerse Hackathon 2025** with a ₹20,000 cash prize! 🎉
+Passionate software developer with expertise in **scalable systems**, **AI agents**, and **intelligent services**. Known for problem-solving, continuous learning, and delivering impactful solutions through collaboration and engineering excellence. Recently won **1st Place at AminoVerse Hackathon 2025** with a ₹20,000 cash prize!
 
 - 🔭 Currently working on AI-driven applications and full-stack development
 - 🌱 Learning advanced cloud technologies and system design
@@ -75,37 +75,7 @@ Passionate software developer with expertise in **scalable systems**, **AI agent
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![QR Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=mohammadazaruddinshaik&repo=QR-Attendance-System&theme=tokyonight&hide_border=true)](https://github.com/mohammadazaruddinshaik/QR-Attendance-System)
-[![TrovoGPT](https://github-readme-stats.vercel.app/api/pin/?username=mohammadazaruddinshaik&repo=TrovoGPT&theme=tokyonight&hide_border=true)](https://github.com/mohammadazaruddinshaik/TrovoGPT)
-
-[![TEDxIARE 2025](https://github-readme-stats.vercel.app/api/pin/?username=mohammadazaruddinshaik&repo=TEDxIARE-2025&theme=tokyonight&hide_border=true)](https://github.com/mohammadazaruddinshaik/TEDxIARE-2025)
-
-</div>
-
-### 🎯 Project Highlights
-
-<table>
-  <tr>
-    <td><strong>🎯 QR Attendance System</strong></td>
-    <td>Automated attendance management with role-based access. <em>Reduced manual workload by 90%</em></td>
-  </tr>
-  <tr>
-    <td><strong>🧬 TrovoGPT</strong></td>
-    <td>AI-driven protein insight platform with biomedical APIs. <em>Boosted search efficiency by 85%</em></td>
-  </tr>
-  <tr>
-    <td><strong>🎪 TEDxIARE 2025</strong></td>
-    <td>Event registration website with optimized UI. <em>Achieved 90% user engagement on launch</em></td>
-  </tr>
-</table>
-
----
-
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
 <div align="center">
   <table>
@@ -128,16 +98,9 @@ Passionate software developer with expertise in **scalable systems**, **AI agent
   </table>
 </div>
 
-### 📜 Certifications
-- **NPTEL Programming in Java** (IIT Kharagpur)
-- **Prompt Engineering for Everyone** (IBM)
-- **Gen AI Fundamentals** (Databricks)
-- **JavaScript Essentials** (NxtWave)
-- **Python** (NxtWave)
-
 ---
 
-## 💻 Coding Profiles & Stats
+## 💻 Coding Profiles
 
 <div align="center">
   <a href="https://leetcode.com/mohammadazaruddinshaik">
