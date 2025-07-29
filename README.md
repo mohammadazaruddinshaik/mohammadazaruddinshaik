@@ -100,20 +100,6 @@ Passionate software developer with expertise in **scalable systems**, **AI agent
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/mohammadazaruddinshaik">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/mohammadazaruddinshaik">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/mohammadazaruddinshaik">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohammadazaruddinshaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7"/>
 </div>
