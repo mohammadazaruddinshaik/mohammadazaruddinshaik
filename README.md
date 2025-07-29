@@ -1,11 +1,10 @@
 # Hi there, I'm Mohammad Azaruddin Shaik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full-Stack+Developer;Hackathon+Winner&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Hackathon+Winner;MERN+Stack+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓-CS%20Student%20at%20IARE-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/🏆-Hackathon%20Winner-gold?style=flat-square" />
   <img src="https://img.shields.io/badge/💼-Open%20to%20Internships-green?style=flat-square" />
 </p>
@@ -14,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at **IARE** passionate about web development and cloud computing. I recently won **1st Place at the Mahindra University Hackathon (AminoVerse)** and am actively seeking **Summer 2025 internship opportunities**.
+I'm a passionate web developer specializing in full-stack development and cloud computing. I recently won **1st Place at the Mahindra University Hackathon (AminoVerse)** and am actively seeking **Summer 2025 internship opportunities**.
 
 ---
 
