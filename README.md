@@ -41,7 +41,7 @@ Passionate software developer with expertise in **scalable systems**, **AI agent
 
 ### ⚙️ Backend Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </a>
 
 ### 🗄️ Databases & Cloud
