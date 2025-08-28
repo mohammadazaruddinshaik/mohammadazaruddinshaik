@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆-AminoVerse%20Hackathon%20Winner-gold?style=flat-square" />
-  <img src="https://img.shields.io/badge/💻-500%2B%20Problems%20Solved-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/⭐-5%20Star%20Python%20HackerRank-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/💼-Open%20to%20Opportunities-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏆-AminoVerse%20Hackathon%20Winner-yellow?style=flat-square&color=FFD700" />
+  <img src="https://img.shields.io/badge/💻-500%2B%20Problems%20Solved-blue?style=flat-square&color=1E90FF" />
+  <img src="https://img.shields.io/badge/⭐-5%20Star%20Python%20HackerRank-success?style=flat-square&color=32CD32" />
+  <img src="https://img.shields.io/badge/💼-Open%20to%20Opportunities-brightgreen?style=flat-square&color=00C896" />
 </p>
 
 ---
@@ -42,6 +42,14 @@ Passionate software developer with expertise in **scalable systems**, **AI agent
 ### ⚙️ Backend Development
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</a>
+
+### 📊 Data Science & Analysis
+<a href="https://skillicons.dev">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-2E6E9E?style=flat&logo=python&logoColor=white" />
 </a>
 
 ### 🗄️ Databases & Cloud
@@ -125,15 +133,15 @@ Passionate software developer with expertise in **scalable systems**, **AI agent
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/mohammadazaruddinshaik">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadazaruddinshaik&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mohammadazaruddinshaik?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mohammadazaruddinshaik&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mohammadazaruddinshaik?label=Followers&style=flat-square&color=1E90FF" alt="Followers" />
 </div>
 
 <div align="center">
