@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆-AminoVerse%20Hackathon%20Winner-gold?style=flat-square" />
-  <img src="https://img.shields.io/badge/💻-300%2B%20Problems%20Solved-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/💻-500%2B%20Problems%20Solved-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/⭐-5%20Star%20Python%20HackerRank-green?style=flat-square" />
   <img src="https://img.shields.io/badge/💼-Open%20to%20Opportunities-brightgreen?style=flat-square" />
 </p>
