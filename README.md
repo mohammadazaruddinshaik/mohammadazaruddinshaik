@@ -1,149 +1,127 @@
-# Hi there, I'm Shaik Mohammad Azaruddin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+👋 Hi, I'm Shaik Mohammad Azaruddin
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;Problem+Solver&center=true&width=400&height=45&color=70a5fd&pause=1000" alt="Typing Animation"> </div>
+🚀 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;Problem+Solver&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
-</div>
+I am a Full-Stack Developer and AI/ML Enthusiast, passionate about creating scalable, intelligent, and impactful solutions.
+Winner of AminoVerse Hackathon 2025 🏆 and an active problem solver with 300+ coding challenges completed across leading platforms.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆-AminoVerse%20Hackathon%20Winner-yellow?style=flat-square&color=FFD700" />
-  <img src="https://img.shields.io/badge/💻-500%2B%20Problems%20Solved-blue?style=flat-square&color=1E90FF" />
-  <img src="https://img.shields.io/badge/⭐-5%20Star%20Python%20HackerRank-success?style=flat-square&color=32CD32" />
-  <img src="https://img.shields.io/badge/💼-Open%20to%20Opportunities-brightgreen?style=flat-square&color=00C896" />
-</p>
+💻 Skilled in MERN Stack, Python, and AI/ML
 
----
+☁️ Exploring Cloud & Scalable System Design
 
-## 🚀 About Me
+🤝 Open to collaborations on innovative projects
 
-Passionate software developer with expertise in **scalable systems**, **AI agents**, and **intelligent services**. Known for problem-solving, continuous learning, and delivering impactful solutions through collaboration and engineering excellence. Recently won **1st Place at AminoVerse Hackathon 2025** with a ₹20,000 cash prize!
-
-- 🔭 Currently working on AI-driven applications and full-stack development
-- 🌱 Learning advanced cloud technologies and system design
-- 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about **MERN Stack**, **Python**, **AI/ML**, or **System Design**
-- ⚡ Fun fact: Solved 300+ coding problems across multiple platforms!
-
----
-
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <div align="center">
 
-### 💻 Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
-</a>
+Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
 
-### 🌐 Frontend Development  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</a>
+Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-### ⚙️ Backend Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</a>
+Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### 📊 Data Science & Analysis
-<a href="https://skillicons.dev">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-2E6E9E?style=flat&logo=python&logoColor=white" />
-</a>
+Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,aws,vercel" />
 
-### 🗄️ Databases & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,aws,vercel" />
-</a>
-
-### 🔧 Tools & Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,linux" />
-</a>
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,linux" />
 
 </div>
+🏆 Highlights
 
----
+🥇 AminoVerse Hackathon Winner 2025 – 1st place among 50+ teams
 
-## 📊 GitHub Analytics
+⭐ 5★ Python – HackerRank Certified
 
+💻 300+ Problems Solved – Across LeetCode, HackerRank, GFG
+
+🎤 TEDxIARE Contributor – Development & Deployment Support
+
+📊 GitHub Insights
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mohammadazaruddinshaik&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadazaruddinshaik&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+🌱 Currently Exploring
+
+🤖 AI/ML-driven automation
+
+☁️ Cloud-native architectures
+
+🏗️ System scalability & design
+
+📫 Connect with Me
+<div align="center"> <a href="mailto:mohammadazaruddinsk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/mohammadazaruddinshaik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/mohammadazaruddinshaik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </div>
+
+✨ “Code with purpose, build with impact.”
+
+Would you like me to make this super minimal (almost resume-like), or keep it slightly flashy with visuals like the one above?
+
+You said:
+provide me like complete one
+ChatGPT said:
+
+Got it 👍 You want a complete, polished README that’s formal, catchy, creative, and not overloaded.
+Here’s the refined full version for your GitHub profile:
+
+👋 Hi, I'm Shaik Mohammad Azaruddin
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;Problem+Solver&center=true&width=450&height=45&color=70a5fd&pause=1000" alt="Typing Animation"> </div>
+🚀 About Me
+
+I’m a Full-Stack Developer and AI/ML Enthusiast with a passion for building scalable systems, intelligent applications, and impactful digital solutions.
+I recently secured 1st place at AminoVerse Hackathon 2025 🏆 among 50+ teams and continue to explore new technologies to create meaningful impact.
+
+💻 Skilled in MERN Stack, Python, and AI/ML
+
+☁️ Learning Cloud & System Design for scalable architectures
+
+🤝 Open to collaborating on innovative, high-impact projects
+
+🧩 Problem solver with 300+ coding challenges completed across platforms
+
+🛠️ Tech Stack
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadazaruddinshaik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadazaruddinshaik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+
+Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+
+Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,aws,vercel" />
+
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,linux" />
+
 </div>
+🏆 Achievements
 
+🥇 AminoVerse Hackathon Winner 2025 – 1st place with ₹20,000 prize
+
+⭐ 5★ Python – HackerRank Certified
+
+💻 300+ Coding Problems – Solved on LeetCode, HackerRank, and GFG
+
+🎤 TEDxIARE Contributor – Built pages & assisted in deployment
+
+📊 GitHub Insights
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mohammadazaruddinshaik&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadazaruddinshaik&layout=compact&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadazaruddinshaik&theme=tokyonight&hide_border=true"/> </div>
+🌱 Currently Exploring
+
+🤖 AI/ML-driven automation
+
+☁️ Cloud-native architectures
+
+🏗️ System scalability & design principles
+
+📫 Connect with Me
+<div align="center"> <a href="mailto:mohammadazaruddinsk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/mohammadazaruddinshaik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/mohammadazaruddinshaik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadazaruddinshaik&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadazaruddinshaik&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffb86c&area=true&hide_border=true"/>
-</div>
+✨ “Code with purpose, build with impact.” ✨
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🥇</td>
-      <td><strong>AminoVerse Hackathon Winner 2025</strong> - 1st place among 50+ teams, ₹20,000 prize</td>
-    </tr>
-    <tr>
-      <td align="center">⭐</td>
-      <td><strong>5 Star Python</strong> - HackerRank certification</td>
-    </tr>
-    <tr>
-      <td align="center">💻</td>
-      <td><strong>300+ Coding Problems</strong> - Solved across LeetCode, HackerRank, GeeksforGeeks</td>
-    </tr>
-    <tr>
-      <td align="center">🤝</td>
-      <td><strong>TEDxIARE Contributor</strong> - Developed components, pages, and assisted deployment</td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadazaruddinshaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7"/>
-</div>
-
----
-
-## 🌱 Currently Working On
-
-- 🔬 Advanced AI/ML projects and research
-- ☁️ Cloud-native application development
-- 🏗️ System design and scalable architectures
-- 🤖 Building intelligent automation tools
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="mailto:mohammadazaruddinsk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/mohammadazaruddinshaik">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mohammadazaruddinshaik">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadazaruddinshaik&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mohammadazaruddinshaik?label=Followers&style=flat-square&color=1E90FF" alt="Followers" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
