@@ -6,60 +6,47 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Developer and AI/ML Enthusiast dedicated to building scalable, intelligent solutions that drive meaningful impact. Recently crowned winner of the **AminoVerse Hackathon 2025** 🏆, I thrive on solving complex problems and transforming ideas into reality.
+**Code. Create. Conquer.** 🏆 AminoVerse Hackathon Winner building intelligent systems that matter.
 
-- 💻 **Expertise:** MERN Stack, Python, AI/ML
-- ☁️ **Learning:** Cloud Architecture & System Design
-- 🤝 **Goal:** Collaborate on innovative, high-impact projects
-- 🧩 **Achievement:** 300+ coding challenges solved
+`Full-Stack Developer × AI Enthusiast × Problem Solver`
 
-## 🛠️ Tech Stack
+## 🛠️ Arsenal
 
 <div align="center">
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Core Languages**  
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend Craft**  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+**Backend Engine**  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Database & Cloud**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Data & Cloud**  
+<img src="https://skillicons.dev/icons?i=mongodb,aws,vercel" />
+
+**Dev Toolkit**  
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,linux" />
 
 </div>
 
-## 🏆 Key Achievements
+## 🏆 Victory Log
 
-- 🥇 **AminoVerse Hackathon 2025 Winner** - 1st place among 50+ teams
-- ⭐ **5★ Python Certified** - HackerRank
-- 💻 **300+ Problems Solved** - LeetCode, HackerRank, GeeksforGeeks
-- 🎤 **TEDxIARE Contributor** - Development & Deployment Support
+**🥇 AminoVerse Champion 2025** | **⭐ 5★ Python Certified** | **💻 300+ Challenges Conquered**
 
-## 📊 GitHub Analytics
+## 📊 Battle Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadazaruddinshaik&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadazaruddinshaik&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🌱 Current Focus
+## 🔥 Current Mission
 
-- 🤖 AI/ML-driven automation solutions
-- ☁️ Cloud-native architecture patterns  
-- 🏗️ Scalable system design principles
+**Building tomorrow's AI-driven solutions today**
 
-## 📫 Let's Connect
+## 📡 Connect
 
 <div align="center">
   <a href="mailto:mohammadazaruddinsk@gmail.com">
@@ -76,5 +63,5 @@ I'm a passionate Full-Stack Developer and AI/ML Enthusiast dedicated to building
 ---
 
 <div align="center">
-  <i>"Crafting code with purpose, building solutions with impact."</i>
+  <i>"Innovation through iteration, impact through code."</i>
 </div>
