@@ -1,4 +1,4 @@
-# Hi, I'm Shaik Mohammad Azaruddin 👋
+# Hi, I'm Azaruddin 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;Problem+Solver&center=true&width=400&height=45&color=70a5fd&pause=1000" alt="Typing Animation">
@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-**Code. Create. Conquer.** 🏆 AminoVerse Hackathon Winner building intelligent systems that matter.
+**Full-Stack Developer** | **Exploring the Edge of AI & Data** | **CS @ IARE**
 
-`Full-Stack Developer × AI Enthusiast × Problem Solver`
+🏆 **2x Hackathon Winner** | 🚀 **Ready to Build – 2025 Internships**
 
 ## 🛠️ Arsenal
 
