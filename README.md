@@ -1,9 +1,5 @@
 # Hi, I'm Azaruddin 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;Problem+Solver&center=true&width=400&height=45&color=70a5fd&pause=1000" alt="Typing Animation">
-</div>
-
 ## 🚀 About Me
 
 **Full-Stack Developer** | **Exploring the Edge of AI & Data** | **CS @ IARE**
