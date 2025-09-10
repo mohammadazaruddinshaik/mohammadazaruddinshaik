@@ -1,6 +1,5 @@
 # Hi, I'm Azaruddin 👋
-
-## 🚀 About Me
+# 🚀 About Me
 
 **Full-Stack Developer** | **Exploring the Edge of AI & Data** | **CS @ IARE**
 
