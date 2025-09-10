@@ -1,9 +1,14 @@
 # Hi, I'm Azaruddin 👋
-# 🚀 About Me
+
+## 🚀 About Me
+
+<div align="center">
 
 **Full-Stack Developer** | **Exploring the Edge of AI & Data** | **CS @ IARE**
 
 🏆 **2x Hackathon Winner** | 🚀 **Ready to Build – 2025 Internships**
+
+</div>
 
 ## 🛠️ Arsenal
 
@@ -28,7 +33,11 @@
 
 ## 🏆 Victory Log
 
+<div align="center">
+
 **🥇 AminoVerse Champion 2025** | **⭐ 5★ Python Certified** | **💻 300+ Challenges Conquered**
+
+</div>
 
 ## 📊 Battle Stats
 
@@ -39,7 +48,11 @@
 
 ## 🔥 Current Mission
 
+<div align="center">
+
 **Building tomorrow's AI-driven solutions today**
+
+</div>
 
 ## 📡 Connect
 
