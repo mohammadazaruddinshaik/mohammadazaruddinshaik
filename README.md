@@ -6,7 +6,7 @@
 
 **Full-Stack Developer** | **Exploring the Edge of AI & Data** | **CS @ IARE**
 
-🏆 **2x Hackathon Winner** | 🚀 **Ready to Build – 2025 Internships**
+🏆 **Hackathon Winner** | 🚀 **Ready to Build – 2025 Internships**
 
 </div>
 
